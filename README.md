@@ -1,1 +1,1 @@
-# PORTUGUESE-BANK-MARKETING-PREDICTION
+This project explores direct phone call marketing campaigns conducted by a Portuguese banking institution between May 2008 and November 2010. The goal is to predict customer subscriptions to term deposits using data analysis and machine learning. It involves data preprocessing, exploratory data analysis, machine learning model development, and performance evaluation. The insights gained aim to inform future marketing strategies in the banking sector.
